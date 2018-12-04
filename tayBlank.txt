@@ -1,3 +1,5 @@
 Name: Tay Blankenship
+
 Major: Computer Science
+
 Graduation: May 2022
